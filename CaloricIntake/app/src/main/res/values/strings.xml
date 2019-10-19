@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practice Project</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name = "names">
+        <item>-default-</item>
+        <item>Basal Metabolic Rate (nothing)</item>
+        <item>Sedentary: little or no exercise</item>
+        <item>Lightly active: exercise/sports 1 to 3 times/week</item>
+        <item>Moderately Active: exercise/sports 3 to 5 times/week</item>
+        <item>Very Active: hard exercise/sports 6 to 7 times/week</item>
+        <item>Extra Active: very hard exercise/sports or physical job</item>
+    </string-array>
+
+    <string-array name = "genders">
+        <item>-default-</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
